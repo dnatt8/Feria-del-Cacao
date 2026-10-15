@@ -26,7 +26,10 @@ Comparación de tres plantillas escogidas de [HTML5 UP](https://html5up.net/)
 ## Planificación
 
 ## Diseño
-
+### Plantilla seleccionada
+**Read Only**
+[<img src="https://html5up.net/uploads/images/read-only.jpg">](https://html5up.net/read-only)
+Escogimos esta plantilla debido a que, después de haber comparado las 3 que seleccionamos, decidimos que esta se tiene una mejor organización para el contenido de nuestra página.
 ## Implementación
 
 ## Despliegue
