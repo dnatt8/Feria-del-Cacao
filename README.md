@@ -28,6 +28,25 @@ Comparación de tres plantillas escogidas de [HTML5 UP](https://html5up.net/)
 ## Planificación
 
 ## Diseño
+### Encuesta realizada
+#### Preguntas cerradas
+1. ¿Es la primera vez que participa en una feria o actividad relacionada con el cacao?
+**Opciones:** Sí - No - Otro
+2. ¿Cuál fue su principal motivo para asistir a esta feria?
+**Opciones:** Conocer más sobre el cacao ecuatoriano - Probar o comprar productos - Conocer emprendimientos - Acompañar a familiares o amigos - Interés cultural o turístico - Otro
+3. ¿Recomendaría esta actividad a otras personas?
+**Opciones:** Sí - No - Tal vez
+4. ¿Considera que esta actividad es accesible para diferentes grupos de la comunidad?
+**Opciones:** Sí - No - Parcialmente
+5. ¿Cómo calificaría su experiencia general en la feria del cacao?
+**Opciones:** Muy buena - Buena -Regular - Mala - Muy mala
+6. ¿Por qué medio conoció esta actividad?
+**Opciones:** Redes sociales - Amigos/familia - Institución/organización - Publicidad - Otro
+#### Preguntas abiertas
+1. ¿Qué fue lo que más le llamó la atención o le gustó de la feria?
+2. ¿Qué importancia considera que tiene el cacao para la cultura o economía del Ecuador?
+3. ¿Qué aspecto considera que podría mejorarse en futuras ferias de este tipo?
+
 ### Plantilla seleccionada
 **Read Only**
 [<img src="https://html5up.net/uploads/images/read-only.jpg">](https://html5up.net/read-only)
