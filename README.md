@@ -26,6 +26,7 @@ Comparación de tres plantillas escogidas de [HTML5 UP](https://html5up.net/)
 | Facilidad de personalización       | Se puede personalizar fácilmente el contenido, el ser una plantilla simple. | Personalizar esta plantilla puede ser un poco complicado, por la cantidad de pestañas que posee y la cantidad de contenido. | La plantilla es fácil de personalizar, por la sencillez del diseño y la organización que tiene.|
 
 ## Planificación
+Durante la planificación se priorizó la seguridad, privacidad, dignidad y bienestar de las personas sobre la obtención de datos o evidencias para el proyecto. Para esto, actuamos de manera responsable, segura y ética, especialmente cuando las actividades involucraron interacción con personas o espacios de la comunidad.
 
 ## Diseño
 ### Encuesta realizada
