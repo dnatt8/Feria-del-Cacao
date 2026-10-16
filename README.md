@@ -52,7 +52,7 @@ Durante la planificación se priorizó la seguridad, privacidad, dignidad y bien
 ### Plantilla seleccionada
 **Read Only**
 [<img src="https://html5up.net/uploads/images/read-only.jpg">](https://html5up.net/read-only)
-Escogimos esta plantilla debido a que, después de haber comparado las 3 que seleccionamos, decidimos que esta se tiene una mejor organización para el contenido de nuestra página.
+Escogimos esta plantilla debido a que, después de haber comparado las 3 que seleccionamos, decidimos que con esta se tiene una mejor organización para el contenido de nuestra página.
 
 ## Implementación
 Se desarrolló la primera versión funcional de la landing page de la Feria del Cacao, utilizando como base la plantilla [Read Only](https://html5up.net/read-only), obtenida del sitio web [HTML5 UP](https://html5up.net/). Se conservaron los archivos y recursos necesarios de la plantilla, para adaptarlos a los objetivos informativos del proyecto.
