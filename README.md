@@ -3,7 +3,8 @@ Página web que expone los datos recopilados acerca de la Feria del Cacao realiz
 
 ## Análisis
 ### Feria del Cacao realizada por El Museo Nacional del Cacao
-Escogimos esta actividad debido a su importancia para promover la cultura, la gastronomía y el reconocimiento del cacao ecuatoriano. Esta feria representa una oportunidad para conocer el interés de los visitantes en los productos derivados del cacao, así como su percepción sobre la importancia de este producto para la cultura y la economía del país. El evento involucra a distintas personas, tales como emprendedores, comerciantes, productores y público asistente. Para la recopilación de información podemos realizar encuestas, entrevistas y registros de asistencia que permitan conocer las preferencias, opiniones y experiencias de los involucrados.
+<img src="https://museocacao.com/wp-content/uploads/2022/01/web-CACAO-MUSEUM-4-1536x1024.jpg"> Escogimos esta actividad debido a su importancia para promover la cultura, la gastronomía y el reconocimiento del cacao ecuatoriano. Esta feria representa una oportunidad para conocer el interés de los visitantes en los productos derivados del cacao, así como su percepción sobre la importancia de este producto para la cultura y la economía del país. El evento involucra a distintas personas, tales como emprendedores, comerciantes, productores y público asistente. Para la recopilación de información podemos realizar encuestas, entrevistas y registros de asistencia que permitan conocer las preferencias, opiniones y experiencias de los involucrados.
+
 ### Organización del contenido
 
 | Sección | Propósito | Datos |
