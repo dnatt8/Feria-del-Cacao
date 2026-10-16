@@ -61,6 +61,8 @@ Se desarrolló la primera versión funcional de la landing page de la Feria del 
 - **CSS y JavaScript:** Se aprovecharon los archivos y recursos incluidos en la carpeta assets/ de la plantilla para definir los estilos, la presentación visual y las funcionalidades de la página.
 
 ## Despliegue
-
+- Repositorio público: https://github.com/dnatt8/Feria-del-Cacao
+- Sitio web publicado: https://dnatt8.github.io/Feria-del-Cacao/
 
 ## Bibliografía
+
