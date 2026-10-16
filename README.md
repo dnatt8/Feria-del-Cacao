@@ -65,4 +65,6 @@ Se desarrolló la primera versión funcional de la landing page de la Feria del 
 - Sitio web publicado: https://dnatt8.github.io/Feria-del-Cacao/
 
 ## Bibliografía
-
+- HTML5 UP. (s. f.). Read Only. https://html5up.net/read-only
+- HTML5 UP. (s. f.). Responsive HTML5 and CSS3 templates. https://html5up.net/
+- Museo Nacional del Cacao. (s. f.). Sitio web oficial. https://museocacao.com/
