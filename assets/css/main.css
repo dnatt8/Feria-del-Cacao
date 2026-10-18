@@ -3337,3 +3337,44 @@ input, select, textarea {
 	width: 100%;
 	height:auto;
 }
+
+.tarjetas-entrevistas{
+	display: grid;
+	grid-template-columns: repeat(2,minmax(0,1fr));
+	gap: 1.5rem;
+	margin-top: 2rem;
+	margin-bottom: 2.5rem;
+}
+
+.tarjeta-entrevista{
+	padding: 1.5rem;
+	border: 1px solid #dddddd;
+	border-radius: 12px;
+	background: #fff;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.tarjeta-entrevista h3{
+	margin-bottom:0.5rem;
+}
+
+.tarjeta-entrevista .entrevista {
+	font-size: 0.85rem;
+	font-weight: bold;
+	color: #80543c;
+}
+
+.tarjeta-entrevista p:last-child{
+	margin-bottom: 0;
+}
+
+
+
+@media screen and (max-width: 736px){
+	.tarjetas-entrevistas{
+		grid-template-columns: 1fr;
+	}
+	.tarjetas-entrevistas article:last-child{
+		margin-bottom: 0.25rem;
+	}	
+}
