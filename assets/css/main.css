@@ -3378,3 +3378,12 @@ input, select, textarea {
 		margin-bottom: 0.25rem;
 	}	
 }
+
+.row.gtr-50.gtr-uniform.edit {
+	justify-content: center;
+	gap: 1rem;
+}
+
+.col-4.edit {
+	flex: 0 0 calc((100% - 2rem)/3);
+}
