@@ -3387,3 +3387,7 @@ input, select, textarea {
 .col-4.edit {
 	flex: 0 0 calc((100% - 2rem)/3);
 }
+
+.galeria {
+	clear: both;
+}
