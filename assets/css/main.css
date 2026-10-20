@@ -3393,3 +3393,17 @@ input, select, textarea {
 .galeria {
 	clear: both;
 }
+
+.foto-cacao figcaption{
+	font-size: 0.9rem;
+	color: #666;
+	text-align: center;
+	margin-top: 0.15rem;
+}
+
+.foto-cacao figcaption a{
+	display: inline-flex;
+	font-size: 0.5rem;
+	margin-top: 0;
+	border-bottom: none;
+}
