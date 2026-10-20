@@ -3381,14 +3381,14 @@ input, select, textarea {
 	}	
 }
 
-.row.gtr-50.gtr-uniform.edit {
+/*.row.gtr-50.gtr-uniform.edit {
 	justify-content: center;
 	gap: 1rem;
 }
 
 .col-4.edit {
 	flex: 0 0 calc((100% - 2rem)/3);
-}
+} */
 
 .galeria {
 	clear: both;
