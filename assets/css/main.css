@@ -3394,11 +3394,19 @@ input, select, textarea {
 	clear: both;
 }
 
+@media screen and (max-width: 736px) {
+	.galeria .row > .col-4 {
+		width: 50%;
+	}
+}
+
 .foto-cacao figcaption{
-	font-size: 0.9rem;
+	font-size: 0.75rem;
+	line-height: 1.4;
 	color: #666;
 	text-align: center;
 	margin-top: 0.15rem;
+	padding: 0 0.25rem;
 }
 
 .foto-cacao figcaption a{
@@ -3406,4 +3414,17 @@ input, select, textarea {
 	font-size: 0.5rem;
 	margin-top: 0;
 	border-bottom: none;
+}
+
+.formulario-mensaje-exito {
+	padding: 1rem 1.25rem;
+	border-radius: 8px;
+	background: #e8f5e9;
+	color: #2e7d32;
+	border: 1px solid #a5d6a7;
+	margin-bottom: 1rem;
+}
+
+.formulario-mensaje-exito[hidden] {
+	display: none;
 }

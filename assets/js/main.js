@@ -156,4 +156,22 @@
 			}
 		});
 
+	// Formulario de interés en el museo (sin envío a servidor).
+		$('#form-interes-museo').on('submit', function(event) {
+
+			event.preventDefault();
+
+			var $mensaje = $('#formulario-exito');
+
+			$mensaje.prop('hidden', false);
+			this.reset();
+
+		});
+
+		$('#form-interes-museo').on('reset', function() {
+
+			$('#formulario-exito').prop('hidden', true);
+
+		});
+
 })(jQuery);
